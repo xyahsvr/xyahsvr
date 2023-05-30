@@ -1,5 +1,5 @@
 <a href="https://github.com/xyahsvr">
-  <img src="https://imgur.com/a/m8TZy9u" alt="Banner">
+  <img src="https://i.imgur.com/fKAzR78.png" alt="Banner">
 </a>
 
 <table style="margin: 0px auto;">
