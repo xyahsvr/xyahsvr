@@ -1,3 +1,7 @@
+<a href="https://github.com/xyahsvr">
+  <img src="https://imgur.com/a/m8TZy9u" alt="Banner">
+</a>
+
 <table style="margin: 0px auto;">
   <h2 style="text-align:center; text-decoration: none; border-bottom: none;">Languages</h2>
   <thead>
